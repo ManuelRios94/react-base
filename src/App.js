@@ -1,4 +1,3 @@
-
 const App = () => {
   return (
     <div className="App">
@@ -16,7 +15,7 @@ const App = () => {
         </a>
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
